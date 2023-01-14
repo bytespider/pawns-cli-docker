@@ -3,7 +3,7 @@
   [Rob Griffiths](https://github.com/bytespider/pawns-cli-docker)
 
 ## Supported tags
-- [`1.0.0`, `1.0`, `1`, `latest`]()
+- [`1.0.0`](https://hub.docker.com/layers/bytespider/pawns-cli/1.0.0/images/sha256-799c49f63fa8280c4e9c13c75cd90b52302275692b1dd1ccccb99634f35e778d?context=repo), [`1.0`](https://hub.docker.com/layers/bytespider/pawns-cli/1.0/images/sha256-799c49f63fa8280c4e9c13c75cd90b52302275692b1dd1ccccb99634f35e778d?context=repo), [`1`](https://hub.docker.com/layers/bytespider/pawns-cli/1/images/sha256-799c49f63fa8280c4e9c13c75cd90b52302275692b1dd1ccccb99634f35e778d?context=repo), [`latest`](https://hub.docker.com/layers/bytespider/pawns-cli/latest/images/sha256-799c49f63fa8280c4e9c13c75cd90b52302275692b1dd1ccccb99634f35e778d?context=repo)
 
 ## Quick reference
 - Where to find issues:  
